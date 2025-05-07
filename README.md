@@ -1,4 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
+## Name: Renick Fabian Rajesh
+## Reg no: 212224230227
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
